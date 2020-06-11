@@ -40,6 +40,7 @@
     "grunt-init": "^0.3.2",
     "jquery": "^3.5.1",
     "mdbreact": "^4.26.1",
+    "netlify-cli": "^2.53.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router": "^5.1.2",
