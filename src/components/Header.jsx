@@ -30,12 +30,12 @@ function Header() {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="/login">
-                Login
+                Sign in
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="/registrationPage">
-                Register
+                Sign up
               </a>
             </li>
             <li className="nav-item">
