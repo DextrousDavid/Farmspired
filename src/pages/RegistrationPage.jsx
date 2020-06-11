@@ -25,7 +25,7 @@ function RegistrationPage() {
               type="text"
               id="defaultLoginFormText"
               className="form-control mb-4"
-              placeholder="Enter Second Name"
+              placeholder="Enter Last Name"
             />
             <input required type="text" id="defaultLoginFormText" className="form-control mb-4" placeholder="Address" />
             <input
