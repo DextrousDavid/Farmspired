@@ -29,54 +29,18 @@ function Header() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/login">
-                Sign in
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="/registrationPage">
-                Sign up
-              </a>
-            </li>
-            <li className="nav-item">
               <a className="nav-link" href="/">
-                About Us
+                Services
               </a>
             </li>
             <li className="nav-item dropdown">
-              <a
-                className="nav-link dropdown-toggle"
-                id="navbarDropdownMenuLink-333"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-              >
+              <a className="nav-link" href="/">
+                {' '}
                 Shop
               </a>
-              <div className="dropdown-menu dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
-                <a className="dropdown-item" href="/">
-                  Action
-                </a>
-                <a className="dropdown-item" href="/">
-                  Another action
-                </a>
-                <a className="dropdown-item" href="/">
-                  Something else here
-                </a>
-              </div>
             </li>
           </ul>
           <ul className="navbar-nav ml-auto nav-flex-icons">
-            <li className="nav-item">
-              <a className="nav-link waves-effect waves-light">
-                <i className="fab fa-twitter"></i>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link waves-effect waves-light">
-                <i className="fab fa-google-plus-g"></i>
-              </a>
-            </li>
             <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle"
@@ -91,16 +55,23 @@ function Header() {
                 className="dropdown-menu dropdown-menu-right dropdown-default"
                 aria-labelledby="navbarDropdownMenuLink-333"
               >
-                <a className="dropdown-item" href="#">
-                  Action
+                <a className="dropdown-item" href="/login">
+                  Sign In
                 </a>
-                <a className="dropdown-item" href="#">
-                  Another action
-                </a>
-                <a className="dropdown-item" href="#">
-                  Something else here
+                <a className="dropdown-item" href="/registrationPage">
+                  Sign Up
                 </a>
               </div>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link waves-effect waves-light">
+                <i className="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link waves-effect waves-light">
+                <i className="fab fa-google-plus-g"></i>
+              </a>
             </li>
           </ul>
         </div>

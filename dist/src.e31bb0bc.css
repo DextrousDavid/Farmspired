@@ -98,6 +98,20 @@ a.border.nav-link.border-light.rounded.mr-1:hover {
   background-size: cover;
 }
 
+.aboutp {
+  font-size: 30px;
+  color: rgb(243, 163, 16);
+}
+
+.para {
+  font-size: 17px;
+  font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fruits {
+  background-image: url('/fruits.d676a391.jpg');
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
