@@ -56,7 +56,7 @@ class HomePage extends React.Component {
             <MDBCol md="6">
               <p className="font-weight-bold aboutp">About FarmSpired</p>
               <h2 className="font-weight-bold">
-                Eliminating Hunger; Building Stronger Communities and Creating Quality Lifestyle for Everyone.
+                Eliminating Hunger; Building Stronger Communities and Creating Quality Lifestyle.
               </h2>
             </MDBCol>
             <MDBCol className="text-justify" md="6">
