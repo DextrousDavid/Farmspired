@@ -56,14 +56,13 @@ class HomePage extends React.Component {
             <MDBCol md="6">
               <p className="font-weight-bold aboutp">About FarmSpired</p>
               <h2 className="font-weight-bold">
-                Eliminating Hunger; Building Stronger Communities and Creating Quality Lifestyle.
+                Eliminating Hunger; Building Stronger Communities and Creating Quality Lifestyle for Everyone.
               </h2>
             </MDBCol>
             <MDBCol className="text-justify" md="6">
               <p className="mb-1 para">
-                FarmSpired is increasing agricultural participation by allowing you <br />
-                easily fund a farm with a promise to deliver profitable returns to you while empowering farmers at the
-                same time.
+                FarmSpired is increasing agricultural participation by allowing you easily fund a farm with a promise to
+                deliver profitable returns to you while empowering farmers at the same time.
               </p>
               <br />
             </MDBCol>
