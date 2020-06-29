@@ -1,0 +1,17 @@
+.more-btn {
+  background-color: #93d85a !important;
+  color: #fff;
+}
+.profile-head {
+  text-align: right;
+}
+
+.dash-nav {
+  background-color: grey;
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+  top: -4px;
+  bottom: 0;
+  padding: 10px;
+}
